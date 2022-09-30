@@ -36,7 +36,7 @@ header{
 }
 .mainBG{
     height: 93vh;
-    background-image: url('img/Temple1.webp');
+    background-image: url('https://www.travelandleisure.com/thmb/4INnLIScrIfPB4xg-lGnNCBRyVA=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-530497363-Japanese-Temples0116-90888ade09be4da483632efd8dd13070.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
