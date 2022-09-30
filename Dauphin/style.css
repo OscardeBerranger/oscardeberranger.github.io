@@ -1,0 +1,10 @@
+.dauphin{
+    background-image: url('https://www.lamanchelibre.fr/photos/1200/937266/');
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+.lien{
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
