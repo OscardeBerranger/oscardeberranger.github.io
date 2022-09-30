@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: rgba(172, 55, 1, 0.722);
+    display: flex;
+    justify-content: space-between;
+    padding: 1vh;
+}
+.buttons{
+    margin: 1vh;
+}
+.btnNavBar{
+    width: 10vh;
+    height: 3vh;
+    background-color: rgb(79, 78, 78);
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 2px;
+}
+.btnNavBar:hover{
+    transform: scale(1.1);
+}
+.btnNavBar:active{
+    transform: scale(1);
+}
+.logoBTN{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.mainBG{
+    height: 93vh;
+    background-image: url('img/Temple1.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainTitle{
+    color: white;
+    background-color: rgba(105, 111, 111, 0.438);
+    border: 1px solid black;
+    cursor:default;
+}
